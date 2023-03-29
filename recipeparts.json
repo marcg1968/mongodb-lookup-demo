@@ -1,0 +1,214 @@
+[
+    {
+        "_id": {
+            "$oid": "642244cbc96cf477afb60358"
+        },
+        "recipe_id": {
+            "$oid": "642242dec96cf477afb40f0f"
+        },
+        "title": "Dill dressing",
+        "method": [
+            "Combine ingredients in a screw top jar.",
+            "Shake well"
+        ],
+        "ingreds": [
+            {
+                "name": "olive oil",
+                "qty": {
+                    "amt": "60",
+                    "unit": "ml"
+                }
+            },
+            {
+                "name": "lemon rind",
+                "qty": {
+                    "amt": "2",
+                    "unit": "tsp",
+                    "extra": "grated"
+                }
+            },
+            {
+                "name": "lemon juice",
+                "qty": {
+                    "amt": "60",
+                    "unit": "ml"
+                }
+            },
+            {
+                "name": "sugar",
+                "qty": {
+                    "amt": "1/2",
+                    "unit": "tsp"
+                }
+            },
+            {
+                "name": "dijon mustard",
+                "qty": {
+                    "amt": "1",
+                    "unit": "tsp"
+                }
+            },
+            {
+                "name": "fresh dill",
+                "qty": {
+                    "amt": "1",
+                    "unit": "tbl"
+                }
+            }
+        ],
+        "order": 2
+    },
+    {
+        "_id": {
+            "$oid": "642244cbc96cf477afb60359"
+        },
+        "recipe_id": {
+            "$oid": "642242dec96cf477afb40f0f"
+        },
+        "title": "__MAIN__",
+        "method": [
+            "Make dill dressing.",
+            "Cook pasta in large saucepan of boiling water until almost tender.",
+            "Add peas to pan with pasta and cook until peas and pasta are just tender. Drain. Transfer to large bowl.",
+            "Heat oil in large non-stick frying pan. Add salmon and cook until browned slightly and cooked as desired. Remove from pan and stand for 5 minutes. Remove skin and any bones. Break salmon into large chunks.",
+            "Add onion, spinach and dill dressing to pasta. Toss well. Add salmon and toss gently to combine."
+        ],
+        "ingreds": [
+            {
+                "name": "risoni pasta",
+                "qty": {
+                    "amt": "250",
+                    "unit": "g"
+                }
+            },
+            {
+                "name": "frozen peas (2 cups)",
+                "qty": {
+                    "amt": "250",
+                    "unit": "g"
+                }
+            },
+            {
+                "name": "olive oil",
+                "qty": {
+                    "amt": "1",
+                    "unit": "tbl"
+                }
+            },
+            {
+                "name": "salmon fillets",
+                "qty": {
+                    "amt": "500",
+                    "unit": "g"
+                }
+            },
+            {
+                "name": "shallots",
+                "qty": {
+                    "amt": "8",
+                    "unit": "x"
+                }
+            },
+            {
+                "name": "baby spinach leaves",
+                "qty": {
+                    "amt": "100",
+                    "unit": "g"
+                }
+            }
+        ],
+        "order": 1
+    },
+    {
+        "_id": {
+            "$oid": "64228259c96cf477aff34c56"
+        },
+        "title": "__MAIN__",
+        "recipe_id": {
+            "$oid": "64227c3ac96cf477afed1874"
+        },
+        "note_id": "ce9bfec31d114ec486b15efaa8a77a5a",
+        "meta": [
+            [
+                "src",
+                "https://www.howtocookthat.net/public_html/best-vegan-chocolate-cake-recipe/"
+            ],
+            [
+                "categ",
+                "baking-cakes"
+            ]
+        ],
+        "ingreds": [
+            {
+                "name": "sugar",
+                "qty": {
+                    "amt": "650",
+                    "unit": "g"
+                }
+            },
+            {
+                "name": "flour",
+                "qty": {
+                    "amt": "400",
+                    "unit": "g"
+                }
+            },
+            {
+                "name": "cocoa powder",
+                "qty": {
+                    "amt": "90",
+                    "unit": "g"
+                }
+            },
+            {
+                "name": "baking powder",
+                "qty": {
+                    "amt": "3",
+                    "unit": "tsp"
+                }
+            },
+            {
+                "name": "flaxseed meal",
+                "qty": {
+                    "amt": "6",
+                    "unit": "tbl"
+                }
+            },
+            {
+                "name": "vanilla essence",
+                "qty": {
+                    "amt": "3",
+                    "unit": "tsp"
+                }
+            },
+            {
+                "name": "canola oil",
+                "qty": {
+                    "amt": "300",
+                    "unit": "ml"
+                }
+            },
+            {
+                "name": "water",
+                "qty": {
+                    "amt": "600",
+                    "unit": "ml"
+                }
+            }
+        ],
+        "method": [
+            "List itemPre-heat the oven to 180C (356 degrees Fahrenheit).",
+            "Place the sugar, flour, cocoa powder, baking soda and flaxseed meal into a bowl and whisk together to get rid of any lumps and aerate the mixture.",
+            "Make a well in the centre and add the oil, water and vanilla. ",
+            "Mix together with electric mixers until just combined.",
+            "Pour into two lined and greased baking 24 cm round baking tins.",
+            "Bake for 20-25 minutes. The cake is done when a knife inserted into the centre comes out clean."
+        ],
+        "tags": [
+            "baking",
+            "cake",
+            "vegan"
+        ],
+        "type": "Cake"
+    }
+]

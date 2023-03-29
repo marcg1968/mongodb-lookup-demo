@@ -1,0 +1,36 @@
+[
+    {
+        "_id": {
+            "$oid": "642242dec96cf477afb40f0f"
+        },
+        "title": "Warm salmon, risoni and pea salad",
+        "meta": [
+            [
+                "lang",
+                "en"
+            ],
+            [
+                "categ",
+                "salad, fish, salmon"
+            ]
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64227c3ac96cf477afed1874"
+        },
+        "title": "Vegan chocolate fudge cake",
+        "meta": [
+            [
+                "categ",
+                "baking-cakes"
+            ]
+        ],
+        "tags": [
+            "baking",
+            "cake",
+            "vegan"
+        ],
+        "type": "Cake"
+    }
+]
