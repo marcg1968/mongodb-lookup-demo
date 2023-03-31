@@ -2,6 +2,8 @@
 
 Using Mongoose Node.js module for MongoDB.
 
+See [this posting on my techblog][techblog posting] for a discussion.
+
 ## Requirements and setup
 
 You will need a `MongoDB` instance, e.g. [Free tier Atlas MongoDB Cloud][Atlas].
@@ -38,4 +40,5 @@ node app.js
 
 
 [Atlas]: https://cloud.mongodb.com/
+[techblog posting]: https://greyling.tech/kb/docs/programming/mongodb/lookup-join
 
