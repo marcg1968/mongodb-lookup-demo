@@ -18,8 +18,8 @@ Import the JSON data files ``recipes.json`` and ``recipeparts.json``
 
 ```bash
 URI="mongodb+srv://username:password@cluster01.koazls1.mongodb.net/db1"
-mongoimport -vvv --uri "$URI" --collection testRecipes --file recipes.json --jsonArray
-mongoimport -vvv --uri "$URI" --collection testRecipeParts --file recipeparts.json --jsonArray
+mongoimport -vvv --uri "$URI" --collection recipes --file recipes.json --jsonArray
+mongoimport -vvv --uri "$URI" --collection recipeParts --file recipeparts.json --jsonArray
 ```
 
 Run the following to install dependencies:
